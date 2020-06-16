@@ -1,5 +1,11 @@
-# learn-to-learn
+# Научиться учиться
+### Посмотреть 
+https://bobandmermaid.github.io/learn-to-learn/
 
--- Лендинг - HTML/CSS(flexbox, grid). Научиться учиться – статичный сайт-лендинг, с элементами анимации.
+### О проекте
++ Cтатичный лендинг, об основных техниках и проблемах в обучении.   
+`Учебный проект сделанный для Яндекс.Практикум`
 
-link -> https://bobandmermaid.github.io/learn-to-learn/
+### Стек технологий
++ HTML5
++ CSS3(flexbox, grid)
