@@ -1,6 +1,4 @@
 # Научиться учиться
-### Посмотреть 
-https://bobandmermaid.github.io/learn-to-learn/
 
 ### О проекте
 + Cтатичный лендинг, об основных техниках и проблемах в обучении.   
@@ -9,3 +7,6 @@ https://bobandmermaid.github.io/learn-to-learn/
 ### Стек технологий
 + HTML5
 + CSS3(flexbox, grid)
+
+### Посмотреть 
+https://bobandmermaid.github.io/learn-to-learn/
